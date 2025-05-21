@@ -9,7 +9,7 @@ Showcase your frontend skills by building a pixel-perfect clone of a famous webs
 
 ---
 
-## 🎯 What’s the Challenge?
+## 🎯 What's the Challenge?
 <h1>Fork, and pull a request!</h1>
 - **Anyone** in the OpenRockets organization can participate.
 - **Clone one or more landing pages** from our website list below.
@@ -39,6 +39,44 @@ Showcase your frontend skills by building a pixel-perfect clone of a famous webs
 
 ---
 
+## 🎉 Completed Challenges
+
+### Google Clone by [geek-cheth](https://github.com/geek-cheth)
+
+![Google Clone Screenshot](google-clone/screenshot/page.png)
+
+#### How to Run the Google Clone:
+
+1. Clone the repository:
+```bash
+git clone https://github.com/geek-cheth/webclone-challenge-1.git
+cd webclone-challenge-1/google-clone
+```
+
+2. Install dependencies:
+```bash
+npm install
+# or if you use bun
+bun install
+```
+
+3. Start the development server:
+```bash
+npm run dev
+# or if you use bun
+bun run dev
+```
+
+4. Open your browser and visit `http://localhost:5173` to view the Google clone.
+
+The clone is built using:
+- TypeScript
+- Vite
+- Modern CSS
+- Biome for linting and formatting
+
+---
+
 ## 📝 Rules
 
 - Any frontend technology is allowed.
@@ -59,7 +97,7 @@ Showcase your frontend skills by building a pixel-perfect clone of a famous webs
 
 - **Comment your GitHub username here:**  
   [OpenRockets Community Discussion #1](https://github.com/orgs/OpenRockets/discussions/1)
-- We’ll invite you to join our community for more challenges and fun!
+- We'll invite you to join our community for more challenges and fun!
 
 ---
 
@@ -67,12 +105,11 @@ Showcase your frontend skills by building a pixel-perfect clone of a famous webs
 
 - Fork, clone, and contribute!
 - Join our discussions for collaboration and help.
-- Let’s build, learn, and have fun together 🚀
+- Let's build, learn, and have fun together 🚀
 
 ---
 
 ## 📄 License
-
 
 CC0 1.0 Universal
 
