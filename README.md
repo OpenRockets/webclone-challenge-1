@@ -1,7 +1,7 @@
-<p align="center">
+
   <img style = "border-radius:100%;"src="https://i.ibb.co/YB4ZZfRN/210044478.png" width="70" alt="C++ Rocket" />
-  <h1 style="color:lightskyblue; border-radius: 100%;">OpenSource | WebClone</h1>
-</p>
+  <h1 style="color:#1ED760; border-radius: 20rem;">OpenSource / WebClone</h1>
+
 # 🚀 Webclone Challenge 1
 
 Welcome to the **OpenRockets Webclone Challenge!**  
