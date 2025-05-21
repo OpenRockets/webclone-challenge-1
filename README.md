@@ -73,6 +73,7 @@ Showcase your frontend skills by building a pixel-perfect clone of a famous webs
 
 ## 📄 License
 
-MIT License
+
+CC0 1.0 Universal
 
 -Challenge created by: <a href="https://www.github.com/openrockets">Team OpenRockets</a>
