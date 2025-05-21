@@ -32,10 +32,10 @@ Showcase your frontend skills by building a pixel-perfect clone of a famous webs
 
 | Website         | Screenshot |
 |-----------------|------------|
-| Google.com      | <a href="https://ibb.co/Z6c6LhM8"><img src="https://i.ibb.co/Z6c6LhM8/image.png" alt="Google Screenshot" width="180"></a> |
-| StyleXjs.com    | <a href="https://ibb.co/pvdd1HVL"><img src="https://i.ibb.co/pvdd1HVL/image.png" alt="StyleX Screenshot" width="180"></a> |
-| Wikipedia.com   | <a href="https://ibb.co/67kS303z"><img src="https://i.ibb.co/67kS303z/image.png" alt="Wikipedia Screenshot" width="180"></a> |
-| www.daraz.lk    | <a href="https://ibb.co/1YZt6Y41"><img src="https://i.ibb.co/1YZt6Y41/image.png" alt="Daraz Screenshot" width="180"></a> |
+| www.Google.com      | <a href="https://ibb.co/Z6c6LhM8"><img src="https://i.ibb.co/Z6c6LhM8/image.png" alt="Google Screenshot" width="180"></a> |
+| www.StyleXjs.com    | <a href="https://ibb.co/pvdd1HVL"><img src="https://i.ibb.co/pvdd1HVL/image.png" alt="StyleX Screenshot" width="180"></a> |
+| www.Wikipedia.com   | <a href="https://ibb.co/67kS303z"><img src="https://i.ibb.co/67kS303z/image.png" alt="Wikipedia Screenshot" width="180"></a> |
+| www.Daraz.lk    | <a href="https://ibb.co/1YZt6Y41"><img src="https://i.ibb.co/1YZt6Y41/image.png" alt="Daraz Screenshot" width="180"></a> |
 
 ---
 
